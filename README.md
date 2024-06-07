@@ -10,10 +10,10 @@ My name is **Khrustalev Ilia**, I'm a fourth year student of [ITMO](https://en.i
 
 If you've opened this profile to find some solved tasks from ITMO IS course, go ahead:
 * **Third year**:
-    - [Semester 6]()
+    - [Semester 6](https://github.com/khrstln/6_semester)
 * **Fourth year**
-    - [Semester 7]()
-    - [Semester 8]()
+    - [Semester 7](https://github.com/khrstln/7_semester)
+    - [Semester 8](https://github.com/khrstln/8_semester)
 
 ## 📊 &nbsp;Stats
 
