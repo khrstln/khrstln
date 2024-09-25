@@ -2,18 +2,30 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Khrustalev Ilia**, I'm a fourth year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Technical Physics_" from Saint Petersburg, Russia.
+My name is **Khrustalev Ilia**, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. I'm interested in NLP, LLM.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
 ## 📝&nbsp; Studies 
 
 If you've opened this profile to find some solved tasks from ITMO IS course, go ahead:
+
+**Bachelors degree**
+
 * **Third year**:
     - [Semester 6](https://github.com/khrstln/6_semester)
 * **Fourth year**
     - [Semester 7](https://github.com/khrstln/7_semester)
     - [Semester 8](https://github.com/khrstln/8_semester)
+
+**Master degree**
+
+* **First year**
+  - [Semester 1]()
+  - [Semester 2]()
+* **Second year**
+  - [Semester 3]()
+  - [Semester 4]()
 
 ## 📊 &nbsp;Stats
 
