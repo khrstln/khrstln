@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Khrustalev Ilia**, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. I'm interested in NLP, LLM.
+My name is **Khrustalev Ilia**, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. Currently working in [X5 Tech](https://x5-tech.ru/) as Intern Machine Learning Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
@@ -21,11 +21,11 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
 **Master degree**
 
 * **First year**
-  - [Semester 1]()
-  - [Semester 2]()
+  - [Semester 1](https://github.com/khrstln/AITH_semester_1)
+  - Semester 2
 * **Second year**
-  - [Semester 3]()
-  - [Semester 4]()
+  - Semester 3
+  - Semester 4
 
 ## 📊 &nbsp;Stats
 
