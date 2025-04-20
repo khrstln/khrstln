@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Khrustalev Ilia**, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. Currently working in [X5 Tech](https://x5-tech.ru/) as Intern Machine Learning Engineer.
+My name is **Khrustalev Ilia**, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. Currently working in [X5 Tech](https://x5-tech.ru/) as Machine Learning Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
