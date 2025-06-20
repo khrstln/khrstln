@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. Currently working in [X5 Tech](https://x5-tech.ru/) as Machine Learning Engineer.
+My name is Ilya, I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Artificial Intelligence_" from Saint Petersburg, Russia. Currently working in [X5 Tech](https://x5-tech.ru/) as Machine Learning Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
@@ -29,7 +29,6 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
 
 ## 📊 &nbsp;Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khrstln&show_icons=true&card_width=495&theme=dracula)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrstln&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=khrstln&theme=dracula)](https://git.io/streak-stats)
 
